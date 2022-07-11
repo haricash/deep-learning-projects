@@ -1,1 +1,1 @@
-# A repository for storing some of the resources I find useful for learning CNNs
+# Some small scale deep learning projects I have worked on
